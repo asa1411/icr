@@ -1,0 +1,13 @@
+C:\Users\jicho5901\aca\icr\bin\Debug\netcoreapp3.1\icr.exe
+C:\Users\jicho5901\aca\icr\bin\Debug\netcoreapp3.1\icr.deps.json
+C:\Users\jicho5901\aca\icr\bin\Debug\netcoreapp3.1\icr.runtimeconfig.json
+C:\Users\jicho5901\aca\icr\bin\Debug\netcoreapp3.1\icr.runtimeconfig.dev.json
+C:\Users\jicho5901\aca\icr\bin\Debug\netcoreapp3.1\icr.dll
+C:\Users\jicho5901\aca\icr\bin\Debug\netcoreapp3.1\icr.pdb
+C:\Users\jicho5901\aca\icr\obj\Debug\netcoreapp3.1\icr.csprojAssemblyReference.cache
+C:\Users\jicho5901\aca\icr\obj\Debug\netcoreapp3.1\icr.AssemblyInfoInputs.cache
+C:\Users\jicho5901\aca\icr\obj\Debug\netcoreapp3.1\icr.AssemblyInfo.cs
+C:\Users\jicho5901\aca\icr\obj\Debug\netcoreapp3.1\icr.csproj.CoreCompileInputs.cache
+C:\Users\jicho5901\aca\icr\obj\Debug\netcoreapp3.1\icr.dll
+C:\Users\jicho5901\aca\icr\obj\Debug\netcoreapp3.1\icr.pdb
+C:\Users\jicho5901\aca\icr\obj\Debug\netcoreapp3.1\icr.genruntimeconfig.cache
